@@ -1,0 +1,20 @@
+{
+  "name": "gulp-imagemin-optimization",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-webp": "^4.0.1",
+    "imagemin-pngquant": "^9.0.2"
+  }
+}
